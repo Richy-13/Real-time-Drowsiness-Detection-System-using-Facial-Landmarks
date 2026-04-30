@@ -20,7 +20,7 @@ This project aims to create a Drowsiness Detection System using Convolutional Ne
 - Pygame
 ## Architecture Diagram/Flow
 
-![image](https://github.com/Richy-13/Real-time-Drowsiness-Detection-System-using-Facial-Landmarks)
+![image](https://github.com/Karthikeyan21001828/Real-time-Drowsiness-Detection-System-using-Facial-Landmarks.git)
 
 
 ## Installation
