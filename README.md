@@ -22,12 +22,12 @@ This project aims to create a Drowsiness Detection System using Convolutional Ne
 <img width="888" height="277" alt="image" src="https://github.com/user-attachments/assets/0623826c-a845-4f67-b865-0552a66ba728" />
 
 
-![image](https://github.com/Karthikeyan21001828/Real-time-Drowsiness-Detection-System-using-Facial-Landmarks.git)
+
 
 
 ## Installation
 
-1. Clone the repository: git clone https://github.com/Karthikeyan21001828/Real-time-Drowsiness-Detection-System-using-Facial-Landmarks.git
+1. Clone the repository: git clone https://github.com/Richy-13/Real-time-Drowsiness-Detection-System-using-Facial-Landmarks
 
 2. Install dependencies: pip install -r requirements.txt
 
